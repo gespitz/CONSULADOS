@@ -1,4 +1,3 @@
-<!doctype html>
 console.log('prueba java');
 <html>
 <head>
